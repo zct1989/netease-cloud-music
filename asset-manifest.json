@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22161ac2.chunk.css",
+    "main.js": "/static/js/main.2bb5450b.chunk.js",
+    "main.js.map": "/static/js/main.2bb5450b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b3ddbfb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b3ddbfb.js.map",
+    "static/css/2.3082b0e1.chunk.css": "/static/css/2.3082b0e1.chunk.css",
+    "static/js/2.6e51907b.chunk.js": "/static/js/2.6e51907b.chunk.js",
+    "static/js/2.6e51907b.chunk.js.map": "/static/js/2.6e51907b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1baa4513d3867f927b655545343f6f86.js": "/precache-manifest.1baa4513d3867f927b655545343f6f86.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3082b0e1.chunk.css.map": "/static/css/2.3082b0e1.chunk.css.map",
+    "static/css/main.22161ac2.chunk.css.map": "/static/css/main.22161ac2.chunk.css.map",
+    "static/media/calendar.e4bf36a8.svg": "/static/media/calendar.e4bf36a8.svg",
+    "static/media/play.0db1aaa9.svg": "/static/media/play.0db1aaa9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b3ddbfb.js",
+    "static/css/2.3082b0e1.chunk.css",
+    "static/js/2.6e51907b.chunk.js",
+    "static/css/main.22161ac2.chunk.css",
+    "static/js/main.2bb5450b.chunk.js"
+  ]
+}
