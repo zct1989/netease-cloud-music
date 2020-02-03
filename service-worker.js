@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/netease-cloud-music/precache-manifest.581c84b0f2a215587fd92a3dda8fe85e.js"
+  "/netease-cloud-music/precache-manifest.3754b1e95a850475e0e253b600124ea0.js"
 );
 
 self.addEventListener('message', (event) => {
